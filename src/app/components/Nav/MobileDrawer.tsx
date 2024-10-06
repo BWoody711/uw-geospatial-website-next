@@ -24,7 +24,7 @@ export default function MobileDrawer({ isOpen, onClose }: Props) {
         </button>
         <div className="flex flex-col justify-around items-center space-y-20">
           <Image 
-              src="/uw_geospatial_logo.png"
+              src="https://bwoody711.github.io/uw-geospatial-website-next/uw_geospatial_logo.png"
               width={75}
               height={75}
               alt="UW Geospatial Club logo"

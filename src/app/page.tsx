@@ -20,11 +20,11 @@ export default function Home() {
       {/* Hero Image */}
       <section
         className="h-screen bg-cover bg-center flex flex-col justify-center items-center"
-        style={{ height: 250, backgroundImage: "url('/Contour-Map.svg')" }}
+        style={{ height: 250, backgroundImage: "url('https://bwoody711.github.io/uw-geospatial-website-next/Contour-Map.svg')" }}
         
       >
         <Image 
-            src="/uw_geospatial_logo.png"
+            src="https://bwoody711.github.io/uw-geospatial-website-next/uw_geospatial_logo.png"
             width={125}
             height={125}
             alt="UW Geospatial Club logo"

@@ -8,7 +8,7 @@ export default function Header() {
         <div className="flex justify-between">
             <Link className="left-0 flex flex-row justify-center space-x-2 mb-0 transform transition duration-300 ease-in-out hover:scale-125" href="/">
                 <Image 
-                    src="/uw_geospatial_logo.png"
+                    src="https://bwoody711.github.io/uw-geospatial-website-next/uw_geospatial_logo.png"
                     width={25}
                     height={25}
                     alt="UW Geospatial Club logo"

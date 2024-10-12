@@ -96,7 +96,7 @@ export default async function LearnGIS({ params }: { params: { id: string } }) {
                     {/* Selected Tutorial Content */}
                     <div className="order-2 md:col-span-9">
                         <h1 className="text-2xl md:text-3xl font-bold mb-2">{topic.name}</h1>
-                        <p>Topic Description Here</p>
+                        {/* <p>Topic Description Here</p> */}
                         <h2 className="text-l md:text-xl font-bold mt-6">Tutorials</h2>
                         <div className="grid grid-cols-1 md:grid-cols-9 gap-6 mt-4">
                         {topic.resources.map(resource => {

@@ -33,7 +33,7 @@ export default function MobileDrawer({ isOpen, onClose }: Props) {
           <ul className='text-center'>
               <li className="text-xl hover:text-slate-900 hover:font-semibold mb-2"><Link href="/">Home</Link></li>
               <li className="text-xl hover:text-slate-900 hover:font-semibold mb-2"><Link href="/opportunities">Opportunities</Link></li>
-              <li className="text-xl hover:text-slate-900 hover:font-semibold mb-2"><Link href="/learn-gis">Learn GIS</Link></li>
+              <li className="text-xl hover:text-slate-900 hover:font-semibold mb-2"><Link href="/learn-gis/1">Learn GIS</Link></li>
               <li className="text-xl hover:text-slate-900 hover:font-semibold mb-2"><Link href="/map-gallery">Map Gallery</Link></li>
             {/* Add other navigation links */}
           </ul>

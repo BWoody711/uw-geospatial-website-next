@@ -50,6 +50,10 @@ export default function Opportunities() {
                     The GoGeomatics website has job postings as well as articles on the state of the sector. In various cities including Kitchener-Waterloo, 
                     GoGeomatics holds monthly networking dinners for students and GIS professionals.
                   </p>
+                  <p className="text-md md:text-lg text-gray-700 mb-8">
+                    <b>**GoGeomatics is now accepting submissions for their Canadian Map Gallery!</b> If you have a static map you would like featured, it can be submitted <a href="https://gogeomatics.ca/submit-your-cartography-posters-be-part-of-the-canadian-map-gallery/">here</a> by <b>October 21st, 2024</b>. 
+                    Selected maps will be featured at the GoGeomatics Expo in Calgary and the GeoIgnite conference in Ottawa.
+                  </p>
                 </div>
               </div>
             </div>

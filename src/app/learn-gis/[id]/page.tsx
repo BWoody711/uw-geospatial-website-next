@@ -104,7 +104,7 @@ export default async function LearnGIS({ params }: { params: { id: string } }) {
                                 <a key={resource.id} href={resource.url} target='_blank' className="block md:col-span-3 p-4 md:p-6 bg-white border border-gray-200 rounded-lg shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
                                     <h5 className="mb-2 text-l md:text-xl font-bold tracking-tight text-gray-900 dark:text-white">{resource.title}</h5>
                                     <p className="font-normal text-gray-700 dark:text-gray-400">{resource.description}</p>
-                                </a> 
+                                </a>
                             )
                         })}
                         </div>
